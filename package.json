@@ -2,6 +2,7 @@
   "name": "@ciudaddebondis/colores",
   "version": "1.0.0",
   "description": "Colores de las líneas de colectivo de Ciudad de Bondis (colors.json)",
+  "license": "CC-BY-4.0",
   "main": "colors.json",
   "files": [
     "colors.json"
