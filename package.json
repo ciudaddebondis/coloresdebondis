@@ -1,0 +1,24 @@
+{
+  "name": "@ciudaddebondis/colores",
+  "version": "1.0.0",
+  "description": "Colores de las líneas de colectivo de Ciudad de Bondis (colors.json)",
+  "main": "colors.json",
+  "files": [
+    "colors.json"
+  ],
+  "keywords": [
+    "ciudaddebondis",
+    "colectivos",
+    "bondis",
+    "colores",
+    "lineas"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ciudaddebondis/coloresdebondis.git"
+  },
+  "homepage": "https://github.com/ciudaddebondis/coloresdebondis",
+  "bugs": {
+    "url": "https://github.com/ciudaddebondis/coloresdebondis/issues"
+  }
+}

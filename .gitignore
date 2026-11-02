@@ -1,0 +1,7 @@
+# Instrucciones y herramientas internas
+INTERNAL.md
+update.sh
+.env
+
+# Dependencias (no hay, pero por las dudas)
+node_modules/
